@@ -1,5 +1,4 @@
 ﻿using ExampleAPI.Models.Dtos;
-using System.Runtime.CompilerServices;
 
 namespace ExampleAPI.Store
 {

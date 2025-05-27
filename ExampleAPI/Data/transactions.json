@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Compra no supermercado",
+    "date": "2025-10-01 12:30:00"
+  },
+  {
+    "id": 2,
+    "description": "gasolina",
+    "date": "2025-10-01 18:30:00"
+  },
+  {
+    "id": 1,
+    "description": "uber",
+    "date": "2025-10-01 22:30:00"
+  }
+]

@@ -1,5 +1,4 @@
-﻿using ExampleAPI.Models;
-using ExampleAPI.Models.Dtos;
+﻿using ExampleAPI.Models.Dtos;
 using ExampleAPI.Store;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
